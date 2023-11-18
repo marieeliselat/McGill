@@ -44,12 +44,8 @@ COMP 370 offers a comprehensive introduction to data science, covering the core 
 - Understanding of statistical and machine learning models.
 - Competence in processing and analyzing various types of data.
 
-### Additional Course Elements
-- Collaborative projects on real-world data challenges.
-- Interactive labs and workshops for hands-on experience.
-
 ### Acknowledgements
-- Course completed in [semester and year, e.g., Fall 2023].
+- Course completed in Fall 2023
 - This repository is for educational purposes and personal reference. Adherence to academic integrity policies is required.
 
 ---
