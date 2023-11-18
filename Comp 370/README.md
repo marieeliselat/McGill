@@ -17,26 +17,26 @@ COMP 370 offers a comprehensive introduction to data science, covering the core 
 1. **Homework 1:** Data Analysis with Python
    - Focus on basic data manipulation and analysis using Python.
 
-2. **Homework 2:** Data Visualization
-   - Creating meaningful visualizations to represent data insights.
+2. **Homework 2:** Unix EC2 Familiarization
+   - Gain familiarity with Unix EC2 as both a data science machine and a server.
 
 3. **Exercise 3:** CLI Analysis
    - Command Line Interface (CLI) analysis for data manipulation and processing.
 
-4. **Homework 4:** Statistical Analysis
-   - Applying statistical methods to analyze datasets.
+4. **Homework 4:** NYC Data Division Dashboard Development
+   - Develop a dashboard to enable city leaders to explore discrepancies in service across zipcodes​​.
 
-5. **Homework 5:** Machine Learning Basics
-   - Introduction to machine learning concepts and algorithms.
+5. **Homework 5:** Refining Questions for NYC Data
+   - Focusing on refining questions related to the city's data, using a specific dataset.
 
-6. **Homework 6:** Advanced Data Analysis
-   - Complex data analysis techniques and their applications.
+6. **Homework 6:** Data Collection with Web APIs
+   - Focus on data collection using web APIs, specifically using the News API to analyze the coverage of different topics in the news
 
-7. **Homework 7:** Text Data Processing
-   - Processing and analysis of text data.
+7. **Homework 7:** Web Scraping of Trending Stories
+   - Use web scraping to collect the top 5 trending stories from the Montreal Gazette, including the title, publication date, author, and opening blurb.
 
 8. **Homework 8:** Data Annotation
-   - Annotation of Reddit posts from /r/mcgill and /r/concordia, developing an ontology for categorization.
+   - Analyze the main topics discussed on the /r/mcgill and /r/concordia subreddits using human annotation​.
 
 ### Skills and Tools Acquired
 - Proficiency in Python, SQL, and other data science tools.
