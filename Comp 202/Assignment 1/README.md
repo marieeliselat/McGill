@@ -10,6 +10,10 @@ Assignment 1 focuses on fundamental programming concepts in Python, including va
 2. **Shipping Books**: Create various functions to assist in preparing books for shipment, including ISBN validation and packaging logic.
 3. **Playing Cards**: Implement functions for handling a deck of cards represented as integers, focusing on determining suits, ranks, and comparisons.
 
+### Submission Requirements
+- `smoothie.py`: Code for the smoothie ordering system.
+- `shipment.py`: Functions for the book shipment process.
+- `card.py`: Code for handling playing cards.
 
 ---
 
