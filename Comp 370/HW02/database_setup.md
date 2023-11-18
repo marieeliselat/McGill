@@ -24,5 +24,4 @@ CREATE USER 'comp370'@'%' IDENTIFIED BY '$ungl@ss3s';
 GRANT ALL PRIVILEGES ON comp370_test.* TO 'comp370'@'%';
 
 __#Update Security Group Rules to allow port 6002 traffic through__  
-	#Add Inbound rule in the Security Group of the EC2 instance (Type: Custom TCP, 	
-	Protocol: TCP, Port Range: 6002, Source: 0.0.0.0/0
+__#Add Inbound rule in the Security Group of the EC2 instance (Type: Custom TCP,Protocol: TCP, Port Range: 6002, Source: 0.0.0.0/0)__
