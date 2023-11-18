@@ -16,6 +16,14 @@ This assignment deepens understanding of Python programming, focusing on functio
    - Build upon the previous assignment's card functions.
    - Implement advanced card handling and manipulation functions, including scoring systems for a card game.
 
+### Submission Files
+- `artwork.py`: Code for the Turtle Art.
+- `algonquin_utils.py`: Utility functions for Algonquin word processing.
+- `algonquin_pronunciation.py`: Functions for determining the pronunciation of Algonquin words.
+- `card2.py`: Extension of card handling functions.
+- `game.py`: Core game logic for the card game.
+- `random_player.py`: Implementation of a random player for the card game.
+- `human_player.py`: Implementation of a human player interface for the card game.
 
 ---
 
